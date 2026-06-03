@@ -4,7 +4,7 @@
 
    <!-- GENERAL SETTINGS -->
    <!-- "setupTarget" options: netlify, firebase, local, email, or sheets -->
-   <item id="studyTitle">Demo Project</item> 
+   <item id="studyTitle"> default_settings Project</item> 
    <item id="databaseOptions">Include_Google_Options</item>
    <item id="setupTarget">firebase</item>
    <!-- STEIN -->
@@ -33,7 +33,7 @@
    <!-- ACCESS -->
    <!-- options: anonymous, partId-access, partId, access -->
    <item id="initialScreen">anonymous</item>
-   <item id="accessCode">demo</item>
+   <item id="accessCode">default_settings</item>
 
    <!-- LEGACY DEFAULTS (do not change these)-->
    <item id="setDefaultFontSize">true</item>
